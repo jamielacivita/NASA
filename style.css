@@ -1,0 +1,7 @@
+.loading    
+{
+position:absolute;
+z-index: 2;
+left: 40%;
+margin-top:100px;
+}
